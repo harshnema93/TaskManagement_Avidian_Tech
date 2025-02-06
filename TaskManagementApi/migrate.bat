@@ -1,0 +1,1 @@
+"C:\Users\harsh\DOTNET~1\tools\dotnet-ef\8.0.0\dotnet-ef.exe" database update --framework net8.0

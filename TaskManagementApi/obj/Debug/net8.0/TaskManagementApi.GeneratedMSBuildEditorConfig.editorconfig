@@ -1,0 +1,11 @@
+is_global = true
+build_property.RootNamespace = TaskManagementApi
+build_property.RootNamespace = TaskManagementApi
+build_property.ProjectDir = C:\Users\harsh\OneDrive\Desktop\Avid_Proj\TaskManagementApi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\harsh\OneDrive\Desktop\Avid_Proj\TaskManagementApi
+build_property._RazorSourceGeneratorDebug = 
